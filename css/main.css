@@ -33,7 +33,7 @@ nav {
     
     text-align: center;
   position: fixed;
-  min-height: 50px;
+  min-height: 20px;
   width: 100%;
   background-color: #F2583E; }
   nav ul {
