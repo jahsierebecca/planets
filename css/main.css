@@ -117,24 +117,18 @@ img.sun {
     max-height: 180px;
 }
 
-#mercury {
+footer {
+  border-top: 1px solid #F2583E;
+  padding: 10px;
+        font-family: 'Muli', sans-serif;
+      font-weight: 300;
+      color: #2B3E42;
+  text-align: center;
+  min-height: 10px;
+  width: 100%;
+  color: #F2583E;
 }
-#venus {
-}
-#earth {
-}
-#mars {
-}
-#jupiter {
-}
-#saturn {
-}
-#uranus {
-}
-#neptune {
-}
-#pluto {
-}
+
 
 
 /*# sourceMappingURL=main.css.map */
